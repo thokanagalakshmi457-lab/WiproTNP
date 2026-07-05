@@ -1,6 +1,6 @@
 package miniproject1;
 
-public class Project {
+public class Project1 {
 
     public static void main(String[] args) {
 
